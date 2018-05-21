@@ -1,0 +1,10 @@
+/* Application-wide Styles */
+h1 {
+  color: #369;
+  font-size: 250%;
+}
+/* everywhere else */
+* {
+  color: #888;
+  font-family: Helvetica, Arial, sans-serif;
+}
