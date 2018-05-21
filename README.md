@@ -1,2 +1,2 @@
-# angular-basic
+# Angular Basic
 Basic angular demo
